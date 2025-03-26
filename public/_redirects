@@ -1,0 +1,15 @@
+/* /index.html 200
+
+# Specific route redirects
+/consultation /index.html 200
+/services/* /index.html 200
+/industries/* /index.html 200
+/blog/* /index.html 200
+/about /index.html 200
+/contact /index.html 200
+/privacy /index.html 200
+/terms /index.html 200
+
+# Redirect /en/ to home page
+/en/*  /  301
+/en  /  301
